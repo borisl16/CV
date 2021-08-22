@@ -73,9 +73,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### Astronaut Leadership Experience, Lake District, May 2014
 
-That in some arguable way make you a better software developer or well-rounded person
+Zip Wire Challenge, Rock Climbing, Ghyll Scrambling, Team-building Challenges.
 
 ## Hobbies
 
