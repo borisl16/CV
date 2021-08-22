@@ -11,10 +11,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Bordon Hill Nurseries Ltd** (Feb 2020 - June 2021)  
+Royalty Label Coordinator
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Organize annual label re shuffle: Coordinate re-deletions/blocked stock (Excel); Assign new Jimmy Codes for new season; Re-label existing stock and assign space for new inventory.
+ - Processing: Process back orders, label only orders, label take out and missing label requests.
+- Communication: Very close communication with Customer services and Transport teams.
+- Stock control: Check in new stock, receive deliveries, print stickers, confirm delivery to suppliers(Excel), produce stock take sheets, record/input stock take, adjust stock (SAP/Excel). 
+- Main responsibilities and duties: lead a label picking team that meets collation timing, train season and agency staff, working closely with people from different backgrounds, confirm labels orders, print pick sheets
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
