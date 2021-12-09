@@ -9,8 +9,10 @@ I am Boris and I have strong Horticulture and Environment protection background 
 
 | Name                         | Description       | Link |Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | --------- |
-| **Final project**            | Recipedia - recipe app | https://recipedia-cbe2c.web.app |React, Jest, etc.
-| **First group project** | MakersBnB |https://github.com/borisl16/Makersbnb.git| Ruby
+| **Final project - Recipedia**            | Recipe app | https://recipedia-cbe2c.web.app |React, Jest, Firebase
+| **MakersBnB** | Add a place to stay |https://github.com/borisl16/Makersbnb.git| Ruby
+| **IOBook** | Social network for programmers|https://iobook.herokuapp.com/| Ruby on Rails, RSpec, Capybara, HTML, CSS, Heroku
+
 
 ## Work Experience
 
