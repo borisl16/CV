@@ -2,7 +2,7 @@
 
 ## About me
 
-I am Boris and I have strong Horticulture and Environment protection background with more then 6 years of experience. Over that period of time I have been going through a lot of challenges to meet the needs of the business and to achive that I  always had to find a way to work smart, not hard. Friend of mine recomended to try some coding and what could you do better if you must self isolate for 14 days during the pandemic? After that I realised that I want to do it and I am enjoying it, simple as that. I get used to with challenges anyway, just this one (coding)  involved more logic and problem solving methods rather manual labor. A lot of people underestimate the manual labor and do not apriciated it and even there, as I mentioned it, is good to work smart, not hard.
+I am Boris and I have strong Horticulture and Environment protection background with more then 6 years of experience. Over that period of time I have been going through a lot of challenges to meet the needs of the business and to acheive that I  always had to find a way to work smart, not hard. Friend of mine recomended to try some coding and what could you do better if you must self isolate for 14 days during the pandemic? After that I realised that I want to do it and I am enjoying it, simple as that. I get used to with challenges anyway, just this one (coding)  involved more logic and problem solving methods rather manual labor. A lot of people underestimate the manual labor and do not apriciated it and even there, as I mentioned it, is good to work smart, not hard.
 
 
 ## Projects
