@@ -4,10 +4,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | Recipedia - recipe app | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Link |Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- | --------- |
+| **Final project**            | Recipedia - recipe app | https://recipedia-cbe2c.web.app |React, Jest, etc.
+| **First group project** | MakersBnB |https://github.com/borisl16/Makersbnb.git| Ruby
 
 ## Work Experience
 
@@ -64,7 +64,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript
 - RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
