@@ -4,6 +4,16 @@
 
 I am Boris and I have strong Horticulture and Environment protection background with more than 6 years of experience. During that time I have been going through a lot of challenges to meet the needs of the business and in order to acheive that I had to always look for ways to work smarter, not harder. Friend of mine recomended I try coding and what a better opportunity to try this than whilst self isolating for 14 days during the pandemic? After giving it a try and realising how much I enjoy doing it, I dedcided that this is what I want to do, simple as that. I am used to challenges anyway, the only difference with this one (coding) is that it involves more logic and problem solving methods rather manual labor. Many people underestimate the importance of manual labor but even there, as I mentioned, it is important to work smarter, not harder.
 
+## Tools
+
+**Languages:** Ruby | JavaScript | HTML | CSS | SQL\
+**Frameworks and Environments:** Rails | Sinatra | React | Node.js\
+**Testing:** RSpec | Capybara | Jasmine\
+**DBMS:** PostgreSQL | FireTable\
+**Methodologies:** TDD | BDD | MVC | Domain Modelling | XP values | Agile processes | SOLID principles
+
+
+
 
 ## Projects
 
