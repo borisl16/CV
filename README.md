@@ -2,8 +2,15 @@
 
 ## About me
 
-I am Boris and I have strong Horticulture and Environment protection background with more than 6 years of experience. During that time I have been going through a lot of challenges to meet the needs of the business and in order to achieve that I had to always look for ways to work smarter, not harder. Friend of mine recommended I try coding and what a better opportunity to try this than whilst self isolating for 14 days during the pandemic? After giving it a try and realising how much I enjoy doing it, I decided that this is what I want to do, simple as that. I am used to challenges anyway, the only difference with this one (coding) is that it involves more logic and problem solving methods rather manual labor. Many people underestimate the importance of manual labor but even there, as I mentioned, it is important to work smarter, not harder.
+I am Boris and I have strong Horticulture and Environment protection background with more than 7 years of experience. During that time I have been going through a lot of challenges to meet the needs of the business and in order to achieve that I had to always look for ways to work smarter, not harder. Friend of mine recommended I try coding and what a better opportunity to try this than whilst self isolating for 14 days during the pandemic? After giving it a try and realising how much I enjoy doing it, I decided that this is what I want to do, simple as that. I am used to challenges anyway, the only difference with this one (coding) is that it involves more logic and problem solving methods rather manual labor. Many people underestimate the importance of manual labor but even there, as I mentioned, it is important to work smarter, not harder.
 
+## Skills
+
+- **Adaptable -** New pairing partner every day, new group project team every week, that is fine with me. As part of my previous role, I used to work and supervise people from variuos backgrounds. That was not a challenge, indeed I manage to see it as opportunity. Example, some people need more moral support and other to be told straigh what is the task, in both scenarios the result is always successful.
+- **Team player -** It is one of the biggest cliche, but the truth is that you cannot be part of the team eventually you will be out. Example, for the final project, I went with majority for using the framework, so I was team player and adaptle at the same time.
+- **Communication -** Honesty is the best policy, this is my moto. It has never let me down, that applies for all levels of communication: coaches, pairing partners, team leaders, managers, directors etc. 
+ 
+ 
 ## Tools
 
 **Languages:** Ruby | JavaScript | HTML | CSS | SQL\
