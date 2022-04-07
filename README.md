@@ -6,7 +6,7 @@ I am Boris and I have strong Horticulture and Environment protection background 
 
 ## Skills
 
-- **Adaptable -** New pairing partner every day, new group project team every week, that is fine with me. As part of my previous role, I used to work and supervise people from variuos backgrounds. That was not a challenge, indeed I manage to see it as opportunity. Example, some people need more moral support and other to be told straigh what is the task, in both scenarios the result is always successful.
+- **Adaptable -** New pairing partner every day, new group project team every week, that is fine with me. As part of my previous role, I used to work and supervise people from variuos backgrounds. That was not a challenge, indeed I see it as an opportunity. Example, some people need more moral support and other to be told straigh what is the task, in both scenarios the result is always successful.
 - **Team player -** It is one of the biggest cliche, but the truth is that you cannot be part of the team eventually you will be out. Example, for the final project, I went with majority for using the framework, so I was team player and adaptle at the same time.
 - **Communication -** Honesty is the best policy, this is my moto. It has never let me down, that applies for all levels of communication: coaches, pairing partners, team leaders, managers, directors etc. 
  
