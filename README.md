@@ -43,7 +43,7 @@ Royalty Label Coordinator
 - Main responsibilities and duties: lead a label picking team that meets collation timing, train season and agency staff, working closely with people from different backgrounds, confirm labels orders, print pick sheets
 
 **Bordon Hill Nurseries Ltd** (Oct 2015 - June 2021)  
-Environmental team member
+Environmental Coordinator
 
 - Responsible for the creation of new project for Bio filter towers used for the purification of washing outs (watering and spraying the plants with pesticides). I have improved the old Biofilter tower system in order to decrease the level of maintenance required as well provide easy access for the operators to the system. Following the success of this project I have been now given the responsibility to undertake similar projects for the other 2 sites of the nursery.
 - Supporting the coordination of the Packaging Obligation. My key responsibilities include: creating and maintaining a database containing weight information of the various goods packages (trays, pots, compost, labels, wraps, etc.) weight samples of all new packaging, re-weight packages every three years, etc. 
