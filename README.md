@@ -45,8 +45,8 @@ Royalty Label Coordinator
 **Bordon Hill Nurseries Ltd** (Oct 2015 - June 2021)  
 Environmental Coordinator
 
-- Responsible for the creation of new project for Bio filter towers used for the purification of washing outs (watering and spraying the plants with pesticides). I have improved the old Biofilter tower system in order to decrease the level of maintenance required as well provide easy access for the operators to the system. Following the success of this project I have been now given the responsibility to undertake similar projects for the other 2 sites of the nursery.
-- Supporting the coordination of the Packaging Obligation. My key responsibilities include: creating and maintaining a database containing weight information of the various goods packages (trays, pots, compost, labels, wraps, etc.) weight samples of all new packaging, re-weight packages every three years, etc. 
+- Responsible for creating a new project for Biofilter towers used to purify washing outs (watering and spraying the plants with pesticides). I have improved the old Biofilter tower system to decrease the level of maintenance required and provide easy access for the operators to the system. Following this project's success, I have now been given the responsibility to undertake similar projects for the other 2 sites of the nursery.
+- Supporting the coordination of the Packaging Obligation. My key responsibilities include: creating and maintaining a database containing weight information of the various goods packages (trays, pots, compost, labels, wraps, etc.) weight samples of all new packaging, and re-weight packages every three years, etc.
 - These roles have been created specifically to utilise my skills and knowledge from my degree.
 
 **Bordon Hill Nurseries Ltd** (Oct 2015 - Jan 2020)  
