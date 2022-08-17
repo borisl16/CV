@@ -93,4 +93,6 @@ Zip Wire Challenge, Rock Climbing, Ghyll Scrambling, Team-building Challenges.
 
 ## Hobbies
 
-Dancing cuban salsa
+- Dancing cuban salsa
+- Travelling
+- Playing tennis
