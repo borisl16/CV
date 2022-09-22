@@ -33,6 +33,12 @@ I am <a href="https://borisl16.github.io">Boris</a> and I have strong Horticultu
 
 ## Work Experience
 
+**Upper Itchen Water Quality Group** (Sept 2022 - On going)  
+C# Developer (Volunteering)
+
+- Managing and processing a database of pollutions samples collected from the
+environmental team members.
+
 **Bordon Hill Nurseries Ltd** (Feb 2020 - June 2021)  
 Royalty Label Coordinator
 
