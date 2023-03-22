@@ -2,7 +2,7 @@
 
 ## About me
 
-I am <a href="https://borisl16.github.io">Boris</a> and I have strong Horticulture and Environment protection background with more than 7 years of experience. During that time I have been going through a lot of challenges to meet the needs of the business and in order to achieve that I had to always look for ways to work smarter, not harder. A friend of mine recommended I try coding and what better opportunity to try this than whilst self-isolating for 14 days during the pandemic? After giving it a try and realising how much I enjoy doing it, I decided that this is what I want to do, simple as that. I am used to challenges anyway, the only difference with this one (coding) is that it involves more logic and problem-solving methods rather than manual labour. Many people underestimate the importance of manual labour but even there, as I mentioned, it is important to work smarter, not harder.
+My name is <a href="https://borisl16.github.io">Boris</a> and I have over 7 years of experience in Horticulture and Environment protection. Over the years, I've faced numerous challenges to meet business requirements, which led me to develop a keen sense of working smarter, not harder. While self-isolating for 14 days during the pandemic, a friend suggested that I explore coding. Intrigued, I tried it out and found myself enjoying it immensely. It was then that I decided to pursue a career in coding. I am accustomed to overcoming challenges, and in this case, coding involves more logic and problem-solving methods than manual labour. While manual labour is often undervalued, I recognize the importance of working efficiently on all tasks, including coding.
 
 ## Skills
 
